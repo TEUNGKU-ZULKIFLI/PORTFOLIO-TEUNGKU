@@ -35,6 +35,7 @@ const skillsList = [
   "User experience",
   "Frontend engineering",
   "Backend engineering",
+  "Full stack development",
   "Internet of Things",
   "Cloud computing",
   "Cybersecurity",
