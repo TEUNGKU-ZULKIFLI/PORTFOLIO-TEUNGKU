@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "teungku-zulkifli-3953612b7",
   medium: "",
   twitter: "",
-  youTube: "@TEUNGKU-ZULKIFLI?si=RqtpQWzI-sGlvx59",
+  youTube: "@TEUNGKU-ZULKIFLI",
 };
 
 const primaryColor = "#4E567E";
