@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://teungku-zulkifli.github.io/TEUNGKU-ZULLKIFLI",
+  "homepage": "https://teungku-zulkifli.github.io/PORTFOLIO-TEUNGKU",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://teungku-zulkifli.github.io/TEUNGKU-ZULLKIFLI'",
+    "build-gh": "parcel build --public-url 'https://teungku-zulkifli.github.io/PORTFOLIO-TEUNGKU'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
