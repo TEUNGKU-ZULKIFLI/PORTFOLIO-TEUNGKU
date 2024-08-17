@@ -32,26 +32,22 @@ const imageAltText = "Teungku Zulkifli";
 const projectList = [
   {
     title: "Spline X 3D Model of a Table code",
-    description:
-      "This is a 3D model of a table code with Spline",
+    description: "This is a 3D model of a table code with Spline",
     url: "https://my.spline.design/apokfixs-c5ed9406bb4a1c6e48db7081da283fc1/",
   },
   {
     title: "My Writing",
-    description:
-      "This is my writing blog",
+    description: "This is my writing blog",
     url: "https://teungku-zulkifli.blogspot.com/",
   },
   {
     title: "Landing Pages",
-    description:
-      "This landing page is my website home page",
+    description: "This landing page is my website home page",
     url: "https://teungku-zulkifli.github.io",
   },
   {
     title: "KMIPN 2024 competition project ideas",
-    description:
-      "about a prototype used in emergencies.",
+    description: "about a prototype used in emergencies.",
     url: "https://youtu.be/Ws6-IYS5mIE",
   },
 ];
